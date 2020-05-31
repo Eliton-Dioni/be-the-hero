@@ -5,7 +5,6 @@ const routes = require('./routes');
 
 const app = express();
 
-// origin: 'http://meuappexemplo.com'
 app.use(cors()); 
 app.use(express.json());
 app.use(routes);
