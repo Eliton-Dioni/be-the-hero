@@ -5,14 +5,11 @@
   <b>🦸‍♂️ É hora de se tornar um herói! 🦸</b>
 </h4>
 
-![logo](./images/logo.png)
-
 <p align="center">
   <a href="#-projeto">Projeto</a> |
   <a href="#-tecnologias">Tecnologias</a> |
   <a href="#-screenshots">Screenshots</a> |
   <a href="#-instalação">Instalação</a>   |
-  <a href="#-contribuição">Contribuição</a> |
 </p>
 
 <br>
@@ -54,11 +51,11 @@ Be The Hero foi desenvolvido a partir das tecnologias:
 
 ##### Tela Inicial do App
 
-<img src="./images/telaInicio.png" width="250px" height="250"/><br>
+<img src="./images/telaInicio.png" align="center" width="300px" height="450"/><br>
 
 ##### Tela de Contato com a Ong no App
 
-<img src="./images/telaContato.png" width="250px" height="250"/><br>
+<img src="./images/telaContato.png" align="center" width="300px" height="450"/><br>
 
 ### 💾 Instalação
 
