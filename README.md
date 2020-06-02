@@ -1,16 +1,21 @@
 #
 
-![logo](./images/logo.png)
+<h4 align="center">
+  <img src="./images/logo.png" width="250px" /><br>
+  <b>🦸‍♂️ É hora de se tornar um herói! 🦸</b>
+</h4>
 
-## 🦸‍♂️ É hora de se tornar um herói! 🦸
+![logo](./images/logo.png)
 
 <p align="center">
   <a href="#-projeto">Projeto</a> |
   <a href="#-tecnologias">Tecnologias</a> |
   <a href="#-screenshots">Screenshots</a> |
-  <a href="#-instalação">Instalação</a>
-  <a href="#-contribuição">Contribuição</a>
+  <a href="#-instalação">Instalação</a>   |
+  <a href="#-contribuição">Contribuição</a> |
 </p>
+
+<br>
 
 ### 🚀 Projeto
 
@@ -37,25 +42,23 @@ Be The Hero foi desenvolvido a partir das tecnologias:
 
 #### 💻 Frontend
 
-![telaLogin](./images/telaLogin.png)
-
 ##### Tela de Login na Web
 
-![telaCadastro](./images/telaCadastro.png)
+![telaLogin](./images/telaLogin.png)
 
 ##### Tela de Cadastro na Web
 
+![telaCadastro](./images/telaCadastro.png)
+
 #### 📱 Mobile
-
-Mobile utilizando React Native com a abstração Expo. Com o desafio do input e teclado concluído. ✅
-
-![telaInicio](./images/telaInicio.png)
 
 ##### Tela Inicial do App
 
-![telaContato](./images/telaContato.png)
+<img src="./images/telaInicio.png" width="250px" height="250"/><br>
 
 ##### Tela de Contato com a Ong no App
+
+<img src="./images/telaContato.png" width="250px" height="250"/><br>
 
 ### 💾 Instalação
 
@@ -138,4 +141,4 @@ Projeto desenvolvido na Semana Omnistack da [Rocketseat](https://rocketseat.com.
 
 ### 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
