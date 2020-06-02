@@ -140,5 +140,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) pa
 </br>
 
 Criado com ❤️ e ☕ por Eliton Dioni [LinkedIn](https://www.linkedin.com/in/eliton-dioni-9628a0104/)
-</>
+<br>
 Projeto desenvolvido na Semana Omnistack da [Rocketseat](https://rocketseat.com.br/) com certificação
