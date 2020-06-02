@@ -2,20 +2,15 @@ import React, { useState, useEffect } from 'react';
 import { Feather } from '@expo/vector-icons';
 import { useNavigation } from '@react-navigation/native';
 import { View, FlatList, Image, Text, TouchableOpacity } from 'react-native';
-
 import api from '../../services/api';
-
 import logoImg from '../../assets/logo.png';
-
 import styles from './styles';
 
 export default function Incidents() {
   const [incidents, setIncidents] = useState([]);
   const [total, setTotal] = useState(0);
-
   const [page, setPage] = useState(1);
   const [loading, setLoading] = useState(false);
-
   const navigation = useNavigation();
 
   function navigateToDetail(incident) {
@@ -30,7 +25,6 @@ export default function Incidents() {
     if (total > 0 && incidents.length === total) {
       return;
     }
-
     setLoading(true);
 
     const response = await api.get('incidents', {
@@ -55,10 +49,8 @@ export default function Incidents() {
           Total de <Text style={styles.headerTextBold}>{total} casos</Text>.
         </Text>
       </View>
-
       <Text style={styles.title}>Bem-vindo!</Text>
       <Text style={styles.description}>Escolha um dos casos abaixo e salve o dia.</Text>
-
       <FlatList
         data={incidents}
         style={styles.incidentList}
@@ -81,7 +73,6 @@ export default function Incidents() {
                 currency: 'BRL' 
               }).format(incident.value)}
             </Text>
-
             <TouchableOpacity
               style={styles.detailsButton}
               onPress={() => navigateToDetail(incident)}
