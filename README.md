@@ -51,11 +51,11 @@ Be The Hero foi desenvolvido a partir das tecnologias:
 
 ##### Tela Inicial do App
 
-<img src="./images/telaInicio.png" align="center" width="300px" height="450"/><br>
+<img src="./images/telaInicio.png" width="300px" height="500"/><br>
 
 ##### Tela de Contato com a Ong no App
 
-<img src="./images/telaContato.png" align="center" width="300px" height="450"/><br>
+<img src="./images/telaContato.png" width="300px" height="500"/><br>
 
 ### 💾 Instalação
 
@@ -133,9 +133,10 @@ Sempre podemos nos aperfeiçoar, me ajude a criar um repositório cada vez melho
 * Faça commit das suas mudanças: `git commit -m 'feat: My new feature example'`
 * Dê Push na sua branch: `git push origin my-feature-example`
 
-Criado com ❤️ e ☕ por Eliton Dioni [LinkedIn](https://www.linkedin.com/in/eliton-dioni-9628a0104/)
-Projeto desenvolvido na Semana Omnistack da [Rocketseat](https://rocketseat.com.br/) com certificação
-
 ### 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
+
+Criado com ❤️ e ☕ por Eliton Dioni [LinkedIn](https://www.linkedin.com/in/eliton-dioni-9628a0104/)
+<br>
+Projeto desenvolvido na Semana Omnistack da [Rocketseat](https://rocketseat.com.br/) com certificação
