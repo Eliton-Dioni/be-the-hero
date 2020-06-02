@@ -137,6 +137,7 @@ Sempre podemos nos aperfeiçoar, me ajude a criar um repositório cada vez melho
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
 
-Criado com ❤️ e ☕ por Eliton Dioni [LinkedIn](https://www.linkedin.com/in/eliton-dioni-9628a0104/)
 <br>
+
+Criado com ❤️ e ☕ por Eliton Dioni [LinkedIn](https://www.linkedin.com/in/eliton-dioni-9628a0104/)
 Projeto desenvolvido na Semana Omnistack da [Rocketseat](https://rocketseat.com.br/) com certificação
